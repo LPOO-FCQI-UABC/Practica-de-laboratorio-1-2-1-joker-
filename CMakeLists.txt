@@ -8,5 +8,4 @@ add_executable(Practica_de_laboratorio_1_2_1_joker_
         .idea/Practica-de-laboratorio-1-2-1-joker-.iml
         .idea/vcs.xml
         .idea/workspace.xml
-        Employee
-        Resource)
+        )
