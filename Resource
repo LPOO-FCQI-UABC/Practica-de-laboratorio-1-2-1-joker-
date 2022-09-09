@@ -1,6 +1,6 @@
 #include "Resource.h"
 
-Resource::Resourcee() {
+Resource::Resource() {
 	// TODO - implement Resource::Resource
 	throw "Not yet implemented";
 }
