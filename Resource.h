@@ -1,0 +1,14 @@
+//
+// Created by sears on 09/09/2022.
+//
+
+#ifndef PRACTICA_DE_LABORATORIO_1_2_1_JOKER_RESOURCE_H
+#define PRACTICA_DE_LABORATORIO_1_2_1_JOKER_RESOURCE_H
+
+
+class Resource {
+
+};
+
+
+#endif //PRACTICA_DE_LABORATORIO_1_2_1_JOKER_RESOURCE_H
