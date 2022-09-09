@@ -1,6 +1,6 @@
 #include "Employee.h"
 
-Employee::Employeee() {
+Employee::Employee() {
 	// TODO - implement Employee::Employee
 	throw "Not yet implemented";
 }

@@ -1,6 +1,6 @@
 #include "Task.h"
 
-Task::Taske() {
+Task::Task() {
 	// TODO - implement Task::Task
 	throw "Not yet implemented";
 }
