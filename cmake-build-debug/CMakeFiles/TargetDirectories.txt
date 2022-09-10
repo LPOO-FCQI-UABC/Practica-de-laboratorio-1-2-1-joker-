@@ -1,3 +1,3 @@
-C:/Users/sears/Documents/Practica-de-laboratorio-1-2-1-joker-/cmake-build-debug/CMakeFiles/Practica_de_laboratorio_1_2_1_joker_.dir
-C:/Users/sears/Documents/Practica-de-laboratorio-1-2-1-joker-/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/sears/Documents/Practica-de-laboratorio-1-2-1-joker-/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/marco/CLionProjects/Practica-de-laboratorio-1-2-1-joker-/cmake-build-debug/CMakeFiles/Practica_de_laboratorio_1_2_1_joker_.dir
+C:/Users/marco/CLionProjects/Practica-de-laboratorio-1-2-1-joker-/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/marco/CLionProjects/Practica-de-laboratorio-1-2-1-joker-/cmake-build-debug/CMakeFiles/rebuild_cache.dir
